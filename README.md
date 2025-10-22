@@ -21,8 +21,8 @@ Currently learning **Python, SQL, and Data Visualization**, and exploring how **
 ---
 
 ## 📊 GitHub Stats
-![Janine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janinesola&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janinesola&layout=compact&theme=tokyonight)
+![Janine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjanine&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjanine&layout=compact&theme=tokyonight)
 
 ---
 

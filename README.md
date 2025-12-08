@@ -42,15 +42,6 @@ I work across multiple environments — not just code. Here are the main formats
 | `.py` | Data scripts & automation | Python |
 | `.pptx` | Project presentations | PowerPoint |
 
-> Shows that I build **end-to-end analytics outputs**, not just code.
-
----
-
-## 📊 GitHub Stats  
-
-![Janine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjanine&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjanine&layout=compact&theme=tokyonight&cache_seconds=86400)
-
 
 ---
 

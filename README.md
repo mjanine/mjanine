@@ -46,7 +46,7 @@ I work across multiple environments — not just code. Here are the main formats
 ---
 
 ## 📫 Contact  
-📧 **Email:** [janine.sola@gmail.com](mailto:janine.sola@gmail.com)  
+📧 **Email:** [janinemariella03@gmail.com](mailto:janinemariella03@@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/janine-sola](https://linkedin.com/in/janine-sola)
 
 ---
